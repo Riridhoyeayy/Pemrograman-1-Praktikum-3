@@ -1,0 +1,1 @@
+Jumlah langkah minimum untuk %d cakram adalah %d\n", n, hanoi(n)
